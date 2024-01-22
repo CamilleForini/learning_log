@@ -24,3 +24,5 @@ git remote add origin URL_DO_GIT
 ```
 python manage.py makemigrations
 python manage.py migrate
+
+py manage.py createsuperuser
